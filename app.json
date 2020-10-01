@@ -1,12 +1,15 @@
 {
-  "name": "mobile",
-  "displayName": "mobile",
+  "name": "iCheff",
+  "displayName": "iCheff",
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "iCheff",
+    "slug": "iCheff",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.marc.icheff"
+    }
   }
 }
